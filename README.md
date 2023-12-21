@@ -5,15 +5,13 @@
 </div>
 
 ### 신입 백엔드 개발자
-- 뭘
-- 써야 할 지 
-- 모르겠다
+
 
 ### Interest
 - Java
 - DB(MariaDB, MySQL)
-- 
-- 
+- Docker, Kubernetes
+- Spring, Spring-boot, React
 
 <div align=center>
 
