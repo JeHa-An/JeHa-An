@@ -6,10 +6,10 @@
 
 
 ### Interest
-- Java
-- DB(MariaDB, MySQL)
-- Docker, Kubernetes
+- Java, Python, C
 - Spring, Spring-boot, React
+- DB(MariaDB, MySQL)
+- Docker, Kubernetes, AWS
 
 <div align=center>
 
